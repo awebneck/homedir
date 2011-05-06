@@ -1,0 +1,2 @@
+camelcasemotion.vba: call delete('/Users/jeremyholland/.vim/autoload/camelcasemotion.vim')|call delete('/Users/jeremyholland/.vim/plugin/camelcasemotion.vim')|call delete('/Users/jeremyholland/.vim/doc/camelcasemotion.txt')
+xmledit-1.9.1.vba: call delete('/Users/jeremyholland/.vim/ftplugin/xml.vim')|call delete('/Users/jeremyholland/.vim/doc/xml-plugin.txt')
