@@ -1,0 +1,9 @@
+[user]
+  name = Jeremy Holland
+  email = jeremy@jeremypholland.com
+[color]
+  diff = auto
+  status = auto
+  branch = auto
+[push]
+  default = current
